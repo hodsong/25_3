@@ -5,16 +5,16 @@
 Sources of potential bias in data include :
 
 •	Cognitive Bias or Implicit Bias, e.g., the creation of data or how data is weighted based on a person’s personal experiences and preferences which may 
-  cause discrimination or prejudice toward a particular group or individual
+  cause discrimination or prejudice toward a particular group or individual  
 •	Sampling Bias, Measurement Bias or Exclusion Bias, e.g., the data is inaccurate through inclusion of outliers, incorrect data, duplicate data and noise,  
-  or is skewed with over or under-represented groups
+  or is skewed with over or under-represented groups  
 •	Confirmation Bias, i.e., selecting information that is supportive of or confirms something known or believed and not data that would contradict such 
-  beliefs
+  beliefs  
 •	Overfitting or Temporal Bias, i.e., the algorithm / model is overfitted to the training data or the model is trained at a point in time but does not 
-  predict accurate results at a future point in time. 
+  predict accurate results at a future point in time.  
 •	Algorithmic Bias, i.e., bias integrated into the algorithm that processes the data through, for example, programming errors, inaccurate weighting or 
   through the developers conscious or unconscious bias being integrated into the algorithm’s decision-making process
-
+  
 Such biases can result in harms to :
 
 •	Individuals, e.g., in employment opportunities, housing, education, credit applications and privacy
