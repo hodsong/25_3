@@ -21,6 +21,7 @@ Licence : https://www.mit.edu/~amini/LICENSE.md
 ## MODEL 
 A summary of the model you’re using and why you chose it. 
 
+Model Card : https://github.com/hodsong/25_3/blob/main/model_card.md
 
 ## HYPERPARAMETER OPTIMSATION
 Description of which hyperparameters you have and how you chose to optimise them. 
