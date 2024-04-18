@@ -6,6 +6,7 @@
 
 ## DATA
 A summary of the data you’re using, remembering to include where you got it and any relevant citations. 
+Data Sheet - https://github.com/hodsong/25_3/blob/main/data_sheet.md
 
 ## MODEL 
 A summary of the model you’re using and why you chose it. 
