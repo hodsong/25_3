@@ -9,7 +9,7 @@ Output : Maturity risk score i.e., analogous to a credit risk score
 
 The industry problem would be based on machine learning and artificial intelligence work in understanding credit risk assessment.
 The data available for the industry problem may be limited, with limited or no capability and maturity scores for different organisations within the group.
-The project will therefore look at existing data and models for assessing credit risk in rural India where previous risk scores and credit ratings for loanees may not exist.
+The project will therefore look at existing data and models for assessing credit risk in rural India where previous risk scores and credit ratings for loanees may not exist, i.e. Unlocking Opportunities: Exploring Credit and Loan Dynamics in Rural India
 
 ## DATA
 A summary of the data you’re using, remembering to include where you got it and any relevant citations. 
@@ -21,10 +21,14 @@ Licence : https://www.mit.edu/~amini/LICENSE.md
 ## MODEL 
 A summary of the model you’re using and why you chose it. 
 
+Based on learning outcome 'LO 1:optimise an existing code base' listed in 25-3 the model will be based on optimising the code in 
+python notebook eda-fe-modeltraining-loan-dataset-rural-india.ipynb (AASHISH JAISWAL)
+
 Model Card : https://github.com/hodsong/25_3/blob/main/model_card.md
 
 ## HYPERPARAMETER OPTIMSATION
 Description of which hyperparameters you have and how you chose to optimise them. 
+
 
 ## RESULTS
 A summary of your results and what you can learn from your model 
