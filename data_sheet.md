@@ -8,15 +8,8 @@ As far as you can, complete the model datasheet. If you have got the data from t
 - Who created the dataset (e.g., which team, research group) and on behalf of which entity (e.g., company, institution, organization)? Who funded the creation of the dataset?
 
 'One of the metrics used by banks to check credit worthiness of an individual is credit score, but for people who have never taken a loan in the past don't have a credit score in first place, and it becomes difficult for banks to lend them.
-
 The "Credit/Loan Dataset - Rural India" is a collection of data points of individuals without a prior credit score and the loan amount sanctioned to them.
-
-The dataset can be used to train models to check the eligible loan amount.
-
-Challenges:
-
-The dataset is pretty raw and needs a lot of EDA/FE/FS
-Some features have > 100 unique values'
+The dataset can be used to train models to check the eligible loan amount.'
 
 https://www.kaggle.com/datasets/heydido/creditloan-dataset-rural-india
 Creator : MIT 
@@ -28,6 +21,17 @@ License : https://www.mit.edu/~amini/LICENSE.md
 - How many instances of each type are there? 
 - Is there any missing data?
 - Does the dataset contain data that might be considered confidential (e.g., data that is protected by legal privilege or by    doctor–patient confidentiality, data that includes the content of individuals’ non-public communications)?
+
+'The "Credit/Loan Dataset - Rural India" is a collection of data points of individuals without a prior credit score and the loan amount sanctioned to them.
+
+Challenges:
+The dataset is pretty raw and needs a lot of EDA/FE/FS
+Some features have > 100 unique values'
+
+https://www.kaggle.com/datasets/heydido/creditloan-dataset-rural-india
+Creator : MIT 
+License : https://www.mit.edu/~amini/LICENSE.md
+https://web.mit.edu/14.771/www/banerjee_09_23.pdf - Modeling Credit Markets - Abhijit Banerjee - Department of Economics, M.I.T
 
 ## Collection process
 
