@@ -11,10 +11,6 @@ As far as you can, complete the model datasheet. If you have got the data from t
 The "Credit/Loan Dataset - Rural India" is a collection of data points of individuals without a prior credit score and the loan amount sanctioned to them.
 The dataset can be used to train models to check the eligible loan amount.'
 
-https://www.kaggle.com/datasets/heydido/creditloan-dataset-rural-india
-Creator : MIT 
-License : https://www.mit.edu/~amini/LICENSE.md
- 
 ## Composition
 
 - What do the instances that comprise the dataset represent (e.g., documents, photos, people, countries)? 
@@ -22,16 +18,11 @@ License : https://www.mit.edu/~amini/LICENSE.md
 - Is there any missing data?
 - Does the dataset contain data that might be considered confidential (e.g., data that is protected by legal privilege or by    doctor–patient confidentiality, data that includes the content of individuals’ non-public communications)?
 
-'The "Credit/Loan Dataset - Rural India" is a collection of data points of individuals without a prior credit score and the loan amount sanctioned to them.
+'The "Credit/Loan Dataset - Rural India" is a collection of data points of individuals without a prior credit score and the loan amount sanctioned to them.'
 
-Challenges:
-The dataset is pretty raw and needs a lot of EDA/FE/FS
-Some features have > 100 unique values'
+'The dataset contains [40,000] unique records.' 
 
-https://www.kaggle.com/datasets/heydido/creditloan-dataset-rural-india
-Creator : MIT 
-License : https://www.mit.edu/~amini/LICENSE.md
-https://web.mit.edu/14.771/www/banerjee_09_23.pdf - Modeling Credit Markets - Abhijit Banerjee - Department of Economics, M.I.T
+Columns relate to each loanee, their age, sex and location as well as their businesses, income and expenditure, domestic living arrangements, the purpose of the loan, the amount and length of the loan i.e., city, age, sex, 	social class,	primary business,	secondary business,	annual income,	monthly expenses, old dependents,	young dependents, 	home_ownership, 	type of house, 	occupants count, 	house area, sanitary availability,	water_availabity, loan purpose, 	loan tenure, 	loan installments, loan amount
 
 ## Collection process
 
@@ -39,11 +30,20 @@ https://web.mit.edu/14.771/www/banerjee_09_23.pdf - Modeling Credit Markets - Ab
 - If the data is a sample of a larger subset, what was the sampling strategy? 
 - Over what time frame was the data collected?
 
+Sources : Co-operative Credit Societies- set up with the aim of facilitating the complete credit needs for small and medium farmers.'
+
+https://www.weforum.org/agenda/2023/07/how-geospatial-datasets-improve-lending-to-india-farmers/
+https://web.mit.edu/14.771/www/banerjee_09_23.pdf - Modeling Credit Markets - Abhijit Banerjee - Department of Economics, M.I.T
+
 ## Preprocessing/cleaning/labelling
 
 - Was any preprocessing/cleaning/labeling of the data done (e.g., discretization or bucketing, tokenization, part-of-speech tagging, SIFT feature extraction, removal of instances, processing of missing values)? If so, please provide a description. If not, you may skip the remaining questions in this section. 
-- Was the “raw” data saved in addition to the preprocessed/cleaned/labeled data (e.g., to support unanticipated future uses)? 
- 
+- Was the “raw” data saved in addition to the preprocessed/cleaned/labeled data (e.g., to support unanticipated future uses)?
+
+Noted 'Challenges:
+The dataset is pretty raw and needs a lot of [Exploratory Data Analysis/Feature Engineering/Feature Selection
+Some features have > 100 unique values'
+
 ## Uses
 
 - What other tasks could the dataset be used for? 
@@ -53,9 +53,14 @@ https://web.mit.edu/14.771/www/banerjee_09_23.pdf - Modeling Credit Markets - Ab
 ## Distribution
 
 - How has the dataset already been distributed? 
-- Is it subject to any copyright or other intellectual property (IP) license, and/or under applicable terms of use (ToU)?  
+- Is it subject to any copyright or other intellectual property (IP) license, and/or under applicable terms of use (ToU)?
+
+https://www.kaggle.com/datasets/heydido/creditloan-dataset-rural-india
+Creator : MIT 
+License : https://www.mit.edu/~amini/LICENSE.md
 
 ## Maintenance
 
 - Who maintains the dataset?
 
+This specific dataset is indicated as not maintained
