@@ -10,6 +10,7 @@ Data Sheet - https://github.com/hodsong/25_3/blob/main/data_sheet.md
 
 ## MODEL 
 A summary of the model you’re using and why you chose it. 
+https://github.com/hodsong/25_3/blob/main/25-3%20Portfolio%20project%20on%20optimising%20a%20model%20for%20real-life%20data.ipynb
 Model Card - https://github.com/hodsong/25_3/blob/main/model_card.md
 
 ## HYPERPARAMETER OPTIMSATION
