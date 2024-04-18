@@ -13,12 +13,15 @@ The project will therefore look at existing data and models for assessing credit
 
 ## DATA
 A summary of the data you’re using, remembering to include where you got it and any relevant citations. 
-Data Sheet - https://github.com/hodsong/25_3/blob/main/data_sheet.md
+The dataset used will be the Rural Credit Dataset [/kaggle/input/creditloan-dataset-rural-india/RuralCreditData.csv](https://www.kaggle.com/datasets/heydido/creditloan-dataset-rural-india)
+
+
+
+Licence : https://www.mit.edu/~amini/LICENSE.md
 
 ## MODEL 
 A summary of the model you’re using and why you chose it. 
-https://github.com/hodsong/25_3/blob/main/25-3%20Portfolio%20project%20on%20optimising%20a%20model%20for%20real-life%20data.ipynb
-Model Card - https://github.com/hodsong/25_3/blob/main/model_card.md
+
 
 ## HYPERPARAMETER OPTIMSATION
 Description of which hyperparameters you have and how you chose to optimise them. 
