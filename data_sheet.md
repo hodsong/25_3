@@ -32,8 +32,7 @@ Columns relate to each loanee, their age, sex and location as well as their busi
 
 Sources : Co-operative Credit Societies- set up with the aim of facilitating the complete credit needs for small and medium farmers.'
 
-https://www.weforum.org/agenda/2023/07/how-geospatial-datasets-improve-lending-to-india-farmers/
-https://web.mit.edu/14.771/www/banerjee_09_23.pdf - Modeling Credit Markets - Abhijit Banerjee - Department of Economics, M.I.T
+References : https://web.mit.edu/14.771/www/banerjee_09_23.pdf - Modeling Credit Markets - Abhijit Banerjee - Department of Economics, M.I.T
 
 ## Preprocessing/cleaning/labelling
 
@@ -49,6 +48,32 @@ Some features have > 100 unique values'
 - What other tasks could the dataset be used for? 
 - Is there anything about the composition of the dataset or the way it was collected and preprocessed/cleaned/labeled that might impact future uses? For example, is there anything that a dataset consumer might need to know to avoid uses that could result in unfair treatment of individuals or groups (e.g., stereotyping, quality of service issues) or other risks or harms (e.g., legal risks, financial harms)? If so, please provide a description. Is there anything a dataset consumer could do to mitigate these risks or harms? 
 - Are there tasks for which the dataset should not be used? If so, please provide a description.
+
+According to the Access to credit poses a significant challenge for farmers worldwide, particularly for small and marginal farmers. This issue is even more severe in developing countries, where approximately 80% of smallholder farmers lack access to credit, as reported by the Food and Agriculture Organization.
+
+The implications of this credit gap are far-reaching, leading to lower productivity, limited adoption of new technologies, and reduced income for farmers.
+
+Sources of potential bias include :
+
+•	Cognitive Bias or Implicit Bias, e.g., the creation of data or how data is weighted based on a person’s personal experiences and preferences which may 
+  cause discrimination or prejudice toward a particular group or individual
+•	Sampling Bias, Measurement Bias or Exclusion Bias, e.g., the data is inaccurate through inclusion of outliers, incorrect data, duplicate data and noise,  
+  or is skewed with over or under-represented groups
+•	Confirmation Bias, i.e., selecting information that is supportive of or confirms something known or believed and not data that would contradict such 
+  beliefs
+•	Overfitting or Temporal Bias, i.e., the algorithm / model is overfitted to the training data or the model is trained at a point in time but does not 
+  predict accurate results at a future point in time. 
+•	Algorithmic Bias, i.e., bias integrated into the algorithm that processes the data through, for example, programming errors, inaccurate weighting or 
+  through the developers conscious or unconscious bias being integrated into the algorithm’s decision-making process
+
+Such biases can result in harms to :
+•	Individuals, e.g., in employment opportunities, housing, education, credit applications and privacy
+•	Harms to Groups e.g., facial recognition, mass surveillance, civil rights
+•	Societies, e.g., disinformation, safety
+•	Companies and Institutions, e.g., reputational, economic, legal and regulatory
+
+References
+How geospatial datasets can improve lending to India's farmers - https://www.weforum.org/agenda/2023/07/how-geospatial-datasets-improve-lending-to-india-farmers/
 
 ## Distribution
 
