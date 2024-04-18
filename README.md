@@ -22,7 +22,7 @@ Licence : https://www.mit.edu/~amini/LICENSE.md
 A summary of the model you’re using and why you chose it. 
 
 Based on learning outcome 'LO 1:optimise an existing code base' listed in 25-3 the model will be based on optimising the code in 
-python notebook eda-fe-modeltraining-loan-dataset-rural-india.ipynb (AASHISH JAISWAL)
+python notebook eda-fe-modeltraining-loan-dataset-rural-india.ipynb (Aashish Jaiswal - This Notebook has been released under the Apache 2.0 open source license)
 
 Model Card : https://github.com/hodsong/25_3/blob/main/model_card.md
 
@@ -33,6 +33,8 @@ Python Notebook : https://github.com/hodsong/25_3/blob/main/25-3%20Portfolio%20p
 
 ## RESULTS
 A summary of your results and what you can learn from your model 
+
+Python Notebook : https://github.com/hodsong/25_3/blob/main/25-3%20Portfolio%20project%20on%20optimising%20a%20model%20for%20real-life%20data.ipynb
 
 You can include images of plots using the code below:
 ![Screenshot](image.png)
