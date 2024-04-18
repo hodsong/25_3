@@ -15,8 +15,7 @@ The project will therefore look at existing data and models for assessing credit
 A summary of the data you’re using, remembering to include where you got it and any relevant citations. 
 The dataset used will be the Rural Credit Dataset [/kaggle/input/creditloan-dataset-rural-india/RuralCreditData.csv](https://www.kaggle.com/datasets/heydido/creditloan-dataset-rural-india)
 
-
-
+Datasheet : https://github.com/hodsong/25_3/blob/main/data_sheet.md
 Licence : https://www.mit.edu/~amini/LICENSE.md
 
 ## MODEL 
