@@ -2,7 +2,14 @@
 
 
 ## NON-TECHNICAL EXPLANATION OF YOUR PROJECT
-100 words to explain what your project is about to a general audience. 
+100 words to explain what your project is about to a general audience.
+
+Industry Problem Statement : Effectively predicting and reducing legal and regulatory, operational and brand risk by accurately analysing management capabilities and maturity levels in Governance, Risk Management, Compliance, Architecture, Information Security and Audit.
+Output : Maturity risk score i.e., analogous to a credit risk score
+
+The industry problem would be based on machine learning and artificial intelligence work in understanding credit risk assessment.
+The data available for the industry problem may be limited, with limited or no capability and maturity scores for different organisations within the group.
+The project will therefore look at existing data and models for assessing credit risk in rural India where previous risk scores and credit ratings for loanees may not exist.
 
 ## DATA
 A summary of the data you’re using, remembering to include where you got it and any relevant citations. 
