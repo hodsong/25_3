@@ -6,9 +6,14 @@ See the [example Google model cards](https://modelcards.withgoogle.com/model-rep
 
 **Input:** Describe the inputs of your model 
 
+
 **Output:** Describe the output(s) of your model
 
+
+
 **Model Architecture:** Describe the model architecture you’ve used
+
+The selected baseline model is the Random Forest Regressor.
 
 ## Performance
 
