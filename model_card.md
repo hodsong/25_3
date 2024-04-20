@@ -6,14 +6,15 @@ See the [example Google model cards](https://modelcards.withgoogle.com/model-rep
 
 **Input:** Describe the inputs of your model 
 
+https://github.com/hodsong/25_3/blob/main/data_sheet.md
 
 **Output:** Describe the output(s) of your model
 
-
+Prediction of credit worthiness of an individual where no pre-existing credit report exists.
 
 **Model Architecture:** Describe the model architecture you’ve used
 
-The selected baseline model is the Random Forest Regressor.
+The model selected in the baseline code is the Random Forest Regressor model. 
 
 ## Performance
 
