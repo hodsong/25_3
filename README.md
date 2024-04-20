@@ -9,7 +9,9 @@ Output : Maturity risk score i.e., analogous to a credit risk score
 
 The industry problem would be based on machine learning and artificial intelligence work in understanding credit risk assessment.
 The data available for the industry problem may be limited, with limited or no capability and maturity scores for different organisations within the group.
-The project will therefore look at existing data and models for assessing credit risk in rural India where previous risk scores and credit ratings for loanees may not exist, i.e. Unlocking Opportunities: Exploring Credit and Loan Dynamics in Rural India
+The project will therefore look at existing data and models for assessing credit risk in rural India where previous risk scores and credit ratings for loanees may not exist, i.e. Unlocking Opportunities: Exploring Credit and Loan Dynamics in Rural India.
+
+A baseline pre-existing code model has been selected that will be reviewed and further optimised.
 
 ## DATA
 A summary of the data you’re using, remembering to include where you got it and any relevant citations. 
@@ -24,25 +26,28 @@ A summary of the model you’re using and why you chose it.
 Based on learning outcome 'LO 1:optimise an existing code base' listed in 25-3 a baseline model will be based based on the pre-existing code in 
 python notebook eda-fe-modeltraining-loan-dataset-rural-india.ipynb (Aashish Jaiswal - This Notebook has been released under the Apache 2.0 open source license). This notebook has been renamed 25-3 Baseline Model.pynb in the GitHub repository. To run this code the Anaconda environment required an command line update i.e., conda install -c conda-forge xgboost.
 
-This baseline model will be further optimised in an attempt to improve on its performance.
+Baseline Model : Random Forest Regressor
+
+This baseline model will be changed, further reviewed and optimised in an attempt to improve on performance.
 
 Model Card : https://github.com/hodsong/25_3/blob/main/model_card.md
 
 ## HYPERPARAMETER OPTIMSATION
 Description of which hyperparameters you have and how you chose to optimise them. 
 
-These are included in the respective notebook.
+Additional information is included in the respective notebooks.
 
-Baseline Python Notebook : 
+Baseline Python Notebook : max_depth, max_features, min_samples_leaf, min_samples_split, n_estimators, random_state
 
 Optimised Python Notebook(s) :
 
 ## RESULTS
 A summary of your results and what you can learn from your model.
 
-These are included in the respective notebooks.
+Additional information is included in the respective notebooks.
 
-Baseline Python Notebook : 
+Baseline Python Notebook : The most effective model in making predictions is the Random Forest Regressor Model optimised with hyperparameters 
+{'criterion': 'absolute_error', 'max_depth': None, 'max_features': None, 'min_samples_leaf': 2, 'min_samples_split': 5, 'n_estimators': 10, 'random_state': 42}
 
 Optimised Python Notebook(s) :
 
