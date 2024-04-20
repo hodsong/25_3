@@ -21,8 +21,22 @@ Licence : https://www.mit.edu/~amini/LICENSE.md
 ## MODEL 
 A summary of the model you’re using and why you chose it. 
 
-Based on learning outcome 'LO 1:optimise an existing code base' listed in 25-3 the model will be based on optimising the code in 
-python notebook eda-fe-modeltraining-loan-dataset-rural-india.ipynb (Aashish Jaiswal - This Notebook has been released under the Apache 2.0 open source license)
+Based on learning outcome 'LO 1:optimise an existing code base' listed in 25-3 a baseline model will be based based on the pre-existing code in 
+python notebook eda-fe-modeltraining-loan-dataset-rural-india.ipynb (Aashish Jaiswal - This Notebook has been released under the Apache 2.0 open source license). This notebook has been renamed 25-3 Baseline Model.pynb in the GitHub repository. Within this model Random Forest Regressor has been selected, combining multiple decision trees. The hyperparameters of this model have then been optimised to provide the following results :
+
+Best Estimator performance for Training set: 
+- Mean Absolute Error: 754.1680
+- Mean Absolute Percentage Error: 0.1220
+- Mean Squared Error: 2336573.7760
+- Root Mean Squared Error: 1528.5860
+
+Best Estimator performance for Test set: 
+- Mean Absolute Error: 768.3270
+- Mean Absolute Percentage Error: 0.1250
+- Mean Squared Error: 2269981.5160
+- Root Mean Squared Error: 1506.6460 
+
+This basline model will be further optimised in an attempt to improve on these values.
 
 Model Card : https://github.com/hodsong/25_3/blob/main/model_card.md
 
