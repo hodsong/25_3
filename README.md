@@ -24,7 +24,7 @@ A summary of the model you’re using and why you chose it.
 Based on learning outcome 'LO 1:optimise an existing code base' listed in 25-3 a baseline model will be based based on the pre-existing code in 
 python notebook eda-fe-modeltraining-loan-dataset-rural-india.ipynb (Aashish Jaiswal - This Notebook has been released under the Apache 2.0 open source license). This notebook has been renamed 25-3 Baseline Model.pynb in the GitHub repository. To run this code the Anaconda environment required an command line update i.e., conda install -c conda-forge xgboost.
 
-This basline model will be further optimised in an attempt to improve on its performance.
+This baseline model will be further optimised in an attempt to improve on its performance.
 
 Model Card : https://github.com/hodsong/25_3/blob/main/model_card.md
 
