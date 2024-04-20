@@ -14,7 +14,9 @@ Prediction of credit worthiness of an individual where no pre-existing credit re
 
 **Model Architecture:** Describe the model architecture you’ve used
 
-Baseline Notebook : The model selected in the baseline code is Random Forest Regressor with optimised hyperparameters {'criterion': 'absolute_error', 'max_depth': None, 'max_features': None, 'min_samples_leaf': 2, 'min_samples_split': 5, 'n_estimators': 10, 'random_state': 42}
+Baseline Notebook : https://github.com/hodsong/25_3/blob/main/25-3%20Baseline%20Model.ipynb
+
+The model selected in the baseline code is Random Forest Regressor with optimised hyperparameters {'criterion': 'absolute_error', 'max_depth': None, 'max_features': None, 'min_samples_leaf': 2, 'min_samples_split': 5, 'n_estimators': 10, 'random_state': 42}
 
 Optimised Notebook(s) : 
 
@@ -24,9 +26,7 @@ Further information is available in the respective notebooks.
 
 Give a summary graph or metrics of how the model performs. Remember to include how you are measuring the performance and what data you analysed it on. 
 
-Baseline Notebook : 
-
-The baseline code performs as follows :
+Baseline Notebook - The baseline code performs as follows :
 
 Best Estimator performance for Training set: 
 - Mean Absolute Error: 754.1680
