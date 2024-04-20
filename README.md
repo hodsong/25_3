@@ -11,7 +11,9 @@ The industry problem would be based on machine learning and artificial intellige
 The data available for the industry problem may be limited, with limited or no capability and maturity scores for different organisations within the group.
 The project will therefore look at existing data and models for assessing credit risk in rural India where previous risk scores and credit ratings for loanees may not exist, i.e. Unlocking Opportunities: Exploring Credit and Loan Dynamics in Rural India.
 
-A baseline pre-existing code model has been selected that will be reviewed and further optimised.
+Although originally from a development background (MCSD, MCSD.NET, MT) across multiple platforms and the full development stack, the purpose of taking the Imperial College course has been to reinforce an understanding of the technical principles of machine learning and artificial intelligence to allow for its appropriate Governance, Risk Management and Compliance to laws and regulations.
+
+A baseline pre-existing code model has therefore been selected that will be reviewed and further optimised.
 
 ## DATA
 A summary of the data you’re using, remembering to include where you got it and any relevant citations. 
