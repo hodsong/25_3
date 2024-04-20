@@ -14,9 +14,9 @@ Prediction of credit worthiness of an individual where no pre-existing credit re
 
 **Model Architecture:** Describe the model architecture you’ve used
 
-Baseline Notebook : The model selected in the baseline code is the Random Forest Regressor model. 
+Baseline Notebook : The model selected in the baseline code is Random Forest Regressor. 
 
-Optimised Notebooks : 
+Optimised Notebook(s) : 
 
 
 Further information is available in the respective notebooks.
@@ -27,7 +27,7 @@ Give a summary graph or metrics of how the model performs. Remember to include h
 
 Baseline Notebook : 
 
-The baseline performs as follows :
+The baseline code performs as follows :
 
 Best Estimator performance for Training set: 
 - Mean Absolute Error: 754.1680
@@ -42,7 +42,7 @@ Best Estimator performance for Test set:
 - Mean Squared Error: 2269981.5160
 - Root Mean Squared Error: 1506.6460
 
-Optimised Notebooks : 
+Optimised Notebook(s) : 
 
 Further information is available within the respective notebooks.
 
