@@ -31,12 +31,20 @@ Model Card : https://github.com/hodsong/25_3/blob/main/model_card.md
 ## HYPERPARAMETER OPTIMSATION
 Description of which hyperparameters you have and how you chose to optimise them. 
 
-Python Notebook : https://github.com/hodsong/25_3/blob/main/25-3%20Portfolio%20project%20on%20optimising%20a%20model%20for%20real-life%20data.ipynb
+These are included in the respective notebook.
+
+Baseline Python Notebook : 
+
+Optimised Python Notebook(s) :
 
 ## RESULTS
-A summary of your results and what you can learn from your model 
+A summary of your results and what you can learn from your model.
 
-Python Notebook : https://github.com/hodsong/25_3/blob/main/25-3%20Portfolio%20project%20on%20optimising%20a%20model%20for%20real-life%20data.ipynb
+These are included in the respective notebooks.
+
+Baseline Python Notebook : 
+
+Optimised Python Notebook(s) :
 
 You can include images of plots using the code below:
 ![Screenshot](image.png)
