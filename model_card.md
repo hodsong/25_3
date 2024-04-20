@@ -14,10 +14,9 @@ Prediction of credit worthiness of an individual where no pre-existing credit re
 
 **Model Architecture:** Describe the model architecture you’ve used
 
-Baseline Notebook : The model selected in the baseline code is Random Forest Regressor. 
+Baseline Notebook : The model selected in the baseline code is Random Forest Regressor with optimised hyperparameters {'criterion': 'absolute_error', 'max_depth': None, 'max_features': None, 'min_samples_leaf': 2, 'min_samples_split': 5, 'n_estimators': 10, 'random_state': 42}
 
 Optimised Notebook(s) : 
-
 
 Further information is available in the respective notebooks.
 
@@ -50,6 +49,10 @@ Further information is available within the respective notebooks.
 
 Outline the limitations of your model.
 
+Optimised Notebook(s) : 
+
 ## Trade-offs
 
 Outline any trade-offs of your model, such as any circumstances where the model exhibits performance issues. 
+
+Optimised Notebook(s) : 
