@@ -107,6 +107,11 @@ This specific dataset is indicated as not maintained
                  personal data for scientific or historical research purposes or statistical purposes) or Schedule 2 Paragraph 28 (which provides an 
                  exemption, if you are processing for archiving purposes in the public interest), although this would be in extremely limited circumstances.
 
-3. Specific provisions within The India Digital Personal Data Protection Act 2023 (DPDPA) would need to be reviewed by legal.
+3. An pseudonymisation exercise as part of the data cleansing using rules such as within HIPAA should be carried out to further reduce privacy risk.
 
-4. The data is being used to process 
+4. Specific provisions within The India Digital Personal Data Protection Act 2023 (DPDPA) would need to be reviewed by the legal and compliance departments.
+
+5. The data is being used to automatically process applications for credit. A process must exist for human review of this process if required, i.e. 
+   the 'data subject shall have the right not to be subject to a decision based solely on automated processing, including profiling, which produces legal 
+   effects concerning him or her or similarly significantly affects him or her.' (Article 22 GDPR)
+   
