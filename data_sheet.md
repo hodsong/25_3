@@ -89,3 +89,24 @@ License : https://www.mit.edu/~amini/LICENSE.md
 - Who maintains the dataset?
 
 This specific dataset is indicated as not maintained
+
+## Governance, Risk and Compliance concerns
+
+1. The data has been preprocessed by the developer in a subjective manner. There is no formalised standard for outliers, missing values etc.
+   Additional versions of the dataset exist 'cleaned' subjectively by other developers which may affect results and performance.
+   e.g. https://www.kaggle.com/datasets/ikjotsingh221/rural-credit-dataset-cleaned
+
+2. Personal Information is 'any information relating to an identified or identifiable natural person' (GDPR Article 4(1)). 
+   The dataset contains personal information which has not been pseudonymised. Although names are not within the dataset specific information
+   concerning age, city, dependents etc exists from which the identity of a natural person could be inferred.
+
+   Mitigations : The dataset is from the 1950s / 1960s which limits risk as privacy law does not apply to those people who are deceased.
+                 This, however, is specific to this dataset and would not apply to new datasets generated using current or recent information.
+
+                 There may be an exception allowing use of the data under Schedule 2 Paragraph 27 (which provides an exemption if you are processing 
+                 personal data for scientific or historical research purposes or statistical purposes) or Schedule 2 Paragraph 28 (which provides an 
+                 exemption, if you are processing for archiving purposes in the public interest), although this would be in extremely limited circumstances.
+
+3. Specific provisions within The India Digital Personal Data Protection Act 2023 (DPDPA) would need to be reviewed by legal.
+
+4. The data is being used to process 
