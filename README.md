@@ -13,7 +13,7 @@ The project will therefore look at existing data and models for assessing credit
 
 Although originally from a development background (MCSD, MCSD.NET, MT) across multiple platforms and the full development stack, the purpose of taking the Imperial College course has been to reinforce an understanding of the technical principles of machine learning and artificial intelligence to allow for its appropriate Governance, Risk Management and Compliance to laws and regulations.
 
-A baseline pre-existing code model has therefore been selected that will be reviewed and further optimised.
+A baseline pre-existing code model has therefore been selected that will be reviewed from this perspective.
 
 ## DATA
 A summary of the data you’re using, remembering to include where you got it and any relevant citations. 
@@ -31,28 +31,22 @@ python notebook eda-fe-modeltraining-loan-dataset-rural-india.ipynb (Aashish Jai
 Baseline Model : Random Forest Regressor
 Baseline Notebook : https://github.com/hodsong/25_3/blob/main/25-3%20Baseline%20Model.ipynb
 
-This baseline model will be changed, further reviewed and optimised in an attempt to improve on performance.
-
 Model Card : https://github.com/hodsong/25_3/blob/main/model_card.md
 
 ## HYPERPARAMETER OPTIMSATION
 Description of which hyperparameters you have and how you chose to optimise them. 
 
-Additional information is included in the respective notebooks.
+Additional information is included in the respective notebook.
 
 Baseline Python Notebook : max_depth, max_features, min_samples_leaf, min_samples_split, n_estimators, random_state
-
-Optimised Python Notebook :
 
 ## RESULTS
 A summary of your results and what you can learn from your model.
 
-Additional information is included in the respective notebooks.
+Additional information is included in the respective notebook.
 
 Baseline Python Notebook : The most effective model in making predictions is the Random Forest Regressor Model optimised with hyperparameters 
 {'criterion': 'absolute_error', 'max_depth': None, 'max_features': None, 'min_samples_leaf': 2, 'min_samples_split': 5, 'n_estimators': 10, 'random_state': 42}
-
-Optimised Python Notebook :
 
 You can include images of plots using the code below:
 ![Screenshot](image.png)
