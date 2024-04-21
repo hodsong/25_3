@@ -13,7 +13,7 @@ The project will therefore look at existing data and models for assessing credit
 
 Although originally from a development background (MCSD, MCSD.NET, MT) across multiple platforms and the full development stack, the purpose of taking the Imperial College course has been to reinforce an understanding of the technical principles of machine learning and artificial intelligence to allow for its appropriate Governance, Risk Management and Compliance to laws and regulations.
 
-A baseline pre-existing code model has therefore been selected that will be reviewed from this perspective.
+A baseline pre-existing code model has therefore been selected that will be reviewed from this perspective in the Data Sheet and Model Card.
 
 ## DATA
 A summary of the data you’re using, remembering to include where you got it and any relevant citations. 
