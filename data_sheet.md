@@ -113,5 +113,5 @@ This specific dataset is indicated as not maintained
 
 5. The data is being used to automatically process applications for credit. A process must exist for human review of this process if required, i.e. 
    the 'data subject shall have the right not to be subject to a decision based solely on automated processing, including profiling, which produces legal 
-   effects concerning him or her or similarly significantly affects him or her.' (Article 22 GDPR)
+   effects concerning him or her or similarly significantly affects him or her' (Article 22 GDPR)
    
