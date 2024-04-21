@@ -42,7 +42,7 @@ Additional information is included in the respective notebooks.
 
 Baseline Python Notebook : max_depth, max_features, min_samples_leaf, min_samples_split, n_estimators, random_state
 
-Optimised Python Notebook(s) :
+Optimised Python Notebook :
 
 ## RESULTS
 A summary of your results and what you can learn from your model.
@@ -52,7 +52,7 @@ Additional information is included in the respective notebooks.
 Baseline Python Notebook : The most effective model in making predictions is the Random Forest Regressor Model optimised with hyperparameters 
 {'criterion': 'absolute_error', 'max_depth': None, 'max_features': None, 'min_samples_leaf': 2, 'min_samples_split': 5, 'n_estimators': 10, 'random_state': 42}
 
-Optimised Python Notebook(s) :
+Optimised Python Notebook :
 
 You can include images of plots using the code below:
 ![Screenshot](image.png)
