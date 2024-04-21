@@ -18,7 +18,7 @@ Baseline Notebook : https://github.com/hodsong/25_3/blob/main/25-3%20Baseline%20
 
 The model selected in the baseline code is Random Forest Regressor with optimised hyperparameters {'criterion': 'absolute_error', 'max_depth': None, 'max_features': None, 'min_samples_leaf': 2, 'min_samples_split': 5, 'n_estimators': 10, 'random_state': 42}
 
-Optimised Notebook(s) : 
+Optimised Notebook : 
 
 Further information is available in the respective notebooks.
 
@@ -41,7 +41,7 @@ Best Estimator performance for Test set:
 - Mean Squared Error: 2269981.5160
 - Root Mean Squared Error: 1506.6460
 
-Optimised Notebook(s) : 
+Optimised Notebook : 
 
 Further information is available within the respective notebooks.
 
@@ -49,10 +49,12 @@ Further information is available within the respective notebooks.
 
 Outline the limitations of your model.
 
-Optimised Notebook(s) : 
+Baseline Notebook : hyperparameter tuning to obtain the best Randon Forest Regressor model takes approximately 36 hours based on a grid search algorithm
+
+Optimised Notebook : 
 
 ## Trade-offs
 
 Outline any trade-offs of your model, such as any circumstances where the model exhibits performance issues. 
 
-Optimised Notebook(s) : 
+Optimised Notebook : 
