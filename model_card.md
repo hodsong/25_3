@@ -45,8 +45,23 @@ Further information is available within the respective notebook.
 
 Outline the limitations of your model.
 
-Baseline Notebook : hyperparameter tuning to obtain the best Randon Forest Regressor model takes approximately 36 hours based on a grid search algorithm
+Baseline Notebook : Hyperparameter tuning to obtain the best Randon Forest Regressor model takes approximately 36 hours based on a grid search algorithm.
+                    Bayesian optimisation may be a more cost-effective solution.
 
 ## Trade-offs
 
 Outline any trade-offs of your model, such as any circumstances where the model exhibits performance issues.
+
+Random Forest Regressor has been selected as the optimal model from the following list
+
+['Linear Regression',
+ 'Ridge',
+ 'Lasso',
+ 'K-Neighbors Regressor',
+ 'Decision Tree Regressor',
+ 'Random Forest Regressor',
+ 'AdaBoost Regressor',
+ 'XGBoost Regressor']
+
+ There is a concern that the model may have been overfitted and this will not generalise across data sets with millions of records of data, or that is not
+ specific to the region i.e., India.
